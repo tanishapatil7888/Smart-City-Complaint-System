@@ -269,19 +269,19 @@ Rejected
 
 ## Project Screenshots
 
-### Home Page
-
-The home page provides users with an overview of the complaint management system.
-
-![Home Page](./screenshots/home%20page.png)
-
----
-
 ### Login Page
 
 Users can securely log in to access the Smart City Complaint Management System.
 
 ![Login Page](./screenshots/login%20page.png)
+
+---
+
+### Home Page
+
+The home page provides users with an overview of the complaint management system.
+
+![Home Page](./screenshots/home%20page.png)
 
 ---
 
