@@ -325,19 +325,11 @@ Smart-City-Complaint-System
 ├── pymysql-layer
 │
 ├── screenshots
-<<<<<<< HEAD
 │      ├── login page.png
 │      ├── home page.png
 │      ├── All complaints.png
 │      ├── Complaints details.png
 │      └── Add complaints.png
-=======
-│      ├── Add complaints.png
-│      ├── All complaints.png
-│      ├── Complaints details.png
-│      ├── home page.png
-│      └── login page.png
->>>>>>> e61e9de63503f4f956ed809ad310419a87360739
 │
 ├── README.md
 │
