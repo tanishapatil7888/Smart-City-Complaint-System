@@ -26,7 +26,8 @@ class Cursor:
     This is the object used to interact with the database.
 
     Do not create an instance of a Cursor yourself. Call
-    connections.Connection.cursor().git branch -M main
+    connections.Connection.cursor().git branch -M maingit shortlog -sne --all
+    
 
     See `Cursor <https://www.python.org/dev/peps/pep-0249/#cursor-objects>`_ in
     the specification.
